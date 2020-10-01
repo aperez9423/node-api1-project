@@ -17,13 +17,13 @@
 
 Use Node.js and Express to build an API that performs CRUD operations on users.
 
-- Add a `.gitignore` file appropriate for `node.js` projects.
-- Add a new `package.json`.
-- Add a `server` script to `package.json` that runs the API using `nodemon`.
+X Add a `.gitignore` file appropriate for `node.js` projects.
+X Add a new `package.json`.
+X Add a `server` script to `package.json` that runs the API using `nodemon`.
 
 ### Write endpoints
 
-Add the code necessary to create a Web API and implement the following _endpoints_:
+X Add the code necessary to create a Web API and implement the following _endpoints_:
 
 | Method | URL            | Description                                                                                            |
 | ------ | -------------- | ------------------------------------------------------------------------------------------------------ |
@@ -35,7 +35,7 @@ Add the code necessary to create a Web API and implement the following _endpoint
 
 #### User Schema
 
-Each User _resource_ should conform to the following structure (AKA schema):
+X Each User _resource_ should conform to the following structure (AKA schema):
 
 ```js
 {
